@@ -1,0 +1,11 @@
+.main-div {
+	height: 500px;
+	width: 500px;
+	background-color: #DDD;
+	display: grid;
+}
+
+.square{
+	background-color: black;
+}
+
