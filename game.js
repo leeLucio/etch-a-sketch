@@ -39,7 +39,6 @@ function createGrid(number) {
 	}
 	div.style.cssText = `grid-template-columns: repeat(${number}, 1fr); 	grid-template-rows: repeat(${number}, 1fr);`
 	squares = document.querySelectorAll(".square");
-	console.log(squares)
 }
 
 function deleteGrid(){
